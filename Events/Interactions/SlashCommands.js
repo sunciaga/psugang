@@ -38,7 +38,5 @@ module.exports = {
             });
             subCommandFile.execute(interaction, client);
         } else command.execute(interaction, client);
-
-command.execute(interaction, client);
-    }
-}
+    };
+};
