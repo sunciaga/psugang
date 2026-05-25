@@ -1,4 +1,4 @@
 {
     "token": "redacted",
-    "DatabaseURL": "mongodb+srv://psugang:fg1OBECzOyhk359q@psu.p6mnazl.mongodb.net/?retryWrites=true&w=majority"
+    "DatabaseURL": "mongodb+srv://psugang:/?retryWrites=true&w=majority"
 }
